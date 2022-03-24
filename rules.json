@@ -1,0 +1,23 @@
+[
+	{
+		"type": "conflict",
+		"description": "Rule 1: Laser eyes can't go with glasses",
+		"match": {
+      "is_any": false,
+      "feature": "Eyes",
+      "expressions": [
+        "Lasers"
+      ]
+		},
+		"conflicts": [
+      {
+        "is_any": false,
+        "feature": "Accessories",
+        "expressions": [
+          "3D Glasses",
+          "Broken Glasses"
+        ]
+      }
+    ]
+  }
+]
