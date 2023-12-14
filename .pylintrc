@@ -1,0 +1,4 @@
+[MASTER]
+enable=all
+errors-only=True
+max-line-length=120

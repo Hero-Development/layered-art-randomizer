@@ -47,7 +47,7 @@ class BulkRandomizer:
       full_path = os.path.join( base_path, folder, '2-images' )
       for file in os.scandir( full_path ):
         if file.is_dir():
-          logging.info( f"Ignoring '{file.path}'" )
+          logging.info( f"Ignoring folder '{file.path}'" )
           continue
 
         if file.name[0] == '.':
