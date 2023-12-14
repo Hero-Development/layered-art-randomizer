@@ -38,11 +38,11 @@ class LayerLoader:
     self.writer.writeheader()
     return self
 
+
   def __exit__( self, type, value, traceback ):
     self.fd.flush()
     self.fd.close()
-    
-    
+
 
   @staticmethod
   def normalize( text ):
@@ -57,18 +57,23 @@ class LayerLoader:
         logging.info( f"Walking '{next_path}'" )
         self.walk( next_path )
       else:
-        logging.info( f"Loading trait '{next_path}'..." )
+        if file.name[0] == '.':
+          continue
+
+
+        logging.info( f"Loading trait '{next_path}'...".encode('utf-8') )
         
-        start = len( __dir__ )
+        start = len( self.ROOT )
         rel_path = next_path[start:]
         rel_path = rel_path.replace( '\\', '/' ).strip( '/' )
-        logging.info( f"rel_path: '{rel_path}'" )
+        logging.info( f"rel_path: '{rel_path}'".encode('utf-8') )
 
         start = len( self.ROOT )
-        trait_path = path[start:]
-        trait_type = self.normalize( trait_path )
+        feature = path[start:]
+        trait_type = self.normalize( feature )
         
-        value = self.normalize( file.name[:file.name.rfind( '.' )] )
+        expression = file.name[:file.name.rfind( '.' )]
+        value = self.normalize( expression )
         if not trait_type:
           trait_type = value
           value = 'Default'
@@ -76,22 +81,37 @@ class LayerLoader:
 
         logging.info( f"trait_type: '{trait_type}'" )
         logging.info( f"value: '{value}'" )
-        values.append({
-          'z':           0,
-          'feature':     trait_type,
-          'expression':  value,
-          'mils':        1,
-          'is_metadata': 1,
-          'display_type': 'string',
-          'trait_type':  trait_type,
-          'value':       value,
-          'path':        rel_path
-        })
-      
-    if values:
-      values.sort( key=lambda v: v['value'] )
-      for value in values:
-        self.writer.writerow( value )
+        
+        try:
+          self.writer.writerow({
+            'z':           0,
+            'feature':     feature,
+            'expression':  expression,
+            'mils':        1,
+            'is_metadata': 1,
+            'display_type': 'string',
+            'trait_type':  feature, #trait_type,
+            'value':       value,
+            'path':        rel_path
+          })
+
+        except UnicodeEncodeError:
+          self.writer.writerow({
+            'z':           0,
+            'feature':     feature,
+            'expression':  expression.encode('utf-8'),
+            'mils':        1,
+            'is_metadata': 1,
+            'display_type': 'string',
+            'trait_type':  feature, #trait_type,
+            'value':       value,
+            'path':        rel_path.encode('utf-8')
+          })
+
+    # if values:
+      # values.sort( key=lambda v: v['value'] )
+      # for value in values:
+        # self.writer.writerow( value )
 
 
 

@@ -1,0 +1,217 @@
+z,feature,expression,mils,link:feature,link:expression,is_metadata,display_type,trait_type,value,path
+0,Background,Deep Blue,1,,,1,string,Background,Deep Blue,1-layers/Background/Deep Blue.png
+0,Background,Earthy Beige,1,,,1,string,Background,Earthy Beige,1-layers/Background/Earthy Beige.png
+0,Background,Forest Green,1,,,1,string,Background,Forest Green,1-layers/Background/Forest Green.png
+0,Background,Plum,1,,,1,string,Background,Plum,1-layers/Background/Plum.png
+0,Background,Rosy Pink,1,,,1,string,Background,Rosy Pink,1-layers/Background/Rosy Pink.png
+0,Background,Salmon Pink,1,,,1,string,Background,Salmon Pink,1-layers/Background/Salmon Pink.png
+0,Background,Sky Blue,1,,,1,string,Background,Sky Blue,1-layers/Background/Sky Blue.png
+0,Background,The Moon,1,,,1,string,Background,The Moon,1-layers/Background/The Moon.png
+0,Background,Wine,1,,,1,string,Background,Wine,1-layers/Background/Wine.png
+0,Background,Yellow Ochre,1,,,1,string,Background,Yellow Ochre,1-layers/Background/Yellow Ochre.png
+10,Base,Default,1,,,0,,,,1-layers/Base.png
+20,Body,77 Jersey,1,,,1,string,Body,77 Jersey,1-layers/Body/77 Jersey.png
+20,Body,Atm,1,,,1,string,Body,Atm,1-layers/Body/ATM.png
+20,Body,Aviator Jacket,1,,,1,string,Body,Aviator Jacket,1-layers/Body/Aviator Jacket.png
+20,Body,Backpack,1,,,1,string,Body,Backpack,1-layers/Body/Backpack.png
+20,Body,Barbed Wire Belt,1,,,1,string,Body,Barbed Wire Belt,1-layers/Body/Barbed Wire Belt.png
+20,Body,Bath Robes,1,,,1,string,Body,Bath Robes,1-layers/Body/Bath Robes.png
+20,Body,Big Puffer Jacket,1,,,1,string,Body,Big Puffer Jacket,1-layers/Body/Big Puffer Jacket.png
+20,Body,Biohazard Suit,1,,,1,string,Body,Biohazard Suit,1-layers/Body/Biohazard Suit.png
+20,Body,Black Belt,1,,,1,string,Body,Black Belt,1-layers/Body/Black Belt.png
+20,Body,Black F Hoodie,1,,,1,string,Body,Black F Hoodie,1-layers/Body/Black F Hoodie.png
+20,Body,Black Hoodie,1,,,1,string,Body,Black Hoodie,1-layers/Body/Black Hoodie.png
+20,Body,Black Jacket,1,,,1,string,Body,Black Jacket,1-layers/Body/Black Jacket.png
+20,Body,Black Puffer Jacket With Brown Pants,1,,,1,string,Body,Black Puffer Jacket With Brown Pants,1-layers/Body/Black Puffer Jacket with Brown Pants.png
+20,Body,Blue Hoodie,1,,,1,string,Body,Blue Hoodie,1-layers/Body/Blue Hoodie.png
+20,Body,Blue T Shirt,1,,,1,string,Body,Blue T Shirt,1-layers/Body/Blue T-Shirt.png
+20,Body,Cacti,1,,,1,string,Body,Cacti,1-layers/Body/Cacti.png
+20,Body,Camera Necklace,1,,,1,string,Body,Camera Necklace,1-layers/Body/Camera Necklace.png
+20,Body,Camo Hoodie,1,,,1,string,Body,Camo Hoodie,1-layers/Body/Camo Hoodie.png
+20,Body,Cat Chain,1,,,1,string,Body,Cat Chain,1-layers/Body/Cat Chain.png
+20,Body,Ff Hoodie,1,,,1,string,Body,Ff Hoodie,1-layers/Body/FF Hoodie.png
+20,Body,Fluid,1,,,1,string,Body,Fluid,1-layers/Body/Fluid.png
+20,Body,Green T Shirt,1,,,1,string,Body,Green T Shirt,1-layers/Body/Green T-Shirt.png
+20,Body,Jetpack,1,,,1,string,Body,Jetpack,1-layers/Body/Jetpack.png
+20,Body,Jewels,1,,,1,string,Body,Jewels,1-layers/Body/Jewels.png
+20,Body,Light Blue Jacket,1,,,1,string,Body,Light Blue Jacket,1-layers/Body/Light Blue Jacket.png
+20,Body,Lightning,1,,,1,string,Body,Lightning,1-layers/Body/Lightning.png
+20,Body,Lumberjack Clothes,1,,,1,string,Body,Lumberjack Clothes,1-layers/Body/Lumberjack Clothes.png
+20,Body,Mushrooms,1,,,1,string,Body,Mushrooms,1-layers/Body/Mushrooms.png
+20,Body,None,1,,,1,string,Body,None,1-layers/Body/None.png
+20,Body,Pearl Necklace,1,,,1,string,Body,Pearl Necklace,1-layers/Body/Pearl Necklace.png
+20,Body,Pink Flamboyant Jacket,1,,,1,string,Body,Pink Flamboyant Jacket,1-layers/Body/Pink Flamboyant Jacket.png
+20,Body,Pink Hoodie,1,,,1,string,Body,Pink Hoodie,1-layers/Body/Pink Hoodie.png
+20,Body,Pink Jacket,1,,,1,string,Body,Pink Jacket,1-layers/Body/Pink Jacket.png
+20,Body,Pink Kimono,1,,,1,string,Body,Pink Kimono,1-layers/Body/Pink Kimono.png
+20,Body,Pink T Shirt,1,,,1,string,Body,Pink T Shirt,1-layers/Body/Pink T-Shirt.png
+20,Body,Plaid Coat,1,,,1,string,Body,Plaid Coat,1-layers/Body/Plaid Coat.png
+20,Body,Poncho,1,,,1,string,Body,Poncho,1-layers/Body/Poncho.png
+20,Body,Prison Uniform,1,,,1,string,Body,Prison Uniform,1-layers/Body/Prison Uniform.png
+20,Body,Red And Green Belt,1,,,1,string,Body,Red And Green Belt,1-layers/Body/Red and Green Belt.png
+20,Body,Red Hoodie,1,,,1,string,Body,Red Hoodie,1-layers/Body/Red Hoodie.png
+20,Body,Red Jacket,1,,,1,string,Body,Red Jacket,1-layers/Body/Red Jacket.png
+20,Body,Red Scarf,1,,,1,string,Body,Red Scarf,1-layers/Body/Red Scarf.png
+20,Body,Satchel,1,,,1,string,Body,Satchel,1-layers/Body/Satchel.png
+20,Body,Suit With Red Tie,1,,,1,string,Body,Suit With Red Tie,1-layers/Body/Suit with Red Tie.png
+20,Body,Vacation Shirt,1,,,1,string,Body,Vacation Shirt,1-layers/Body/Vacation Shirt.png
+20,Body,White Tank Top,1,,,1,string,Body,White Tank Top,1-layers/Body/White Tank Top.png
+20,Body,,1,,,0,,,,
+30,Skin,Black,1,,,1,string,Skin,Black,1-layers/Skin/Black.png
+30,Skin,Black With Spots,1,,,1,string,Skin,Black With Spots,1-layers/Skin/Black with Spots.png
+30,Skin,Blue,1,,,1,string,Skin,Blue,1-layers/Skin/Blue.png
+30,Skin,Brown,1,,,1,string,Skin,Brown,1-layers/Skin/Brown.png
+30,Skin,Pink,1,,,1,string,Skin,Pink,1-layers/Skin/Pink.png
+30,Skin,Siamese,1,,,1,string,Skin,Siamese,1-layers/Skin/Siamese.png
+30,Skin,Sunset,1,,,1,string,Skin,Sunset,1-layers/Skin/Sunset.png
+30,Skin,Tabby,1,,,1,string,Skin,Tabby,1-layers/Skin/Tabby.png
+30,Skin,Tiger,1,,,1,string,Skin,Tiger,1-layers/Skin/Tiger.png
+30,Skin,Tortoiseshell,1,,,1,string,Skin,Tortoiseshell,1-layers/Skin/Tortoiseshell.png
+30,Skin,White,1,,,1,string,Skin,White,1-layers/Skin/White.png
+30,Skin,,1,,,0,,,,
+40,Face,Alien,1,,,1,string,Face,Alien,1-layers/Face/Alien.png
+40,Face,Angry,1,,,1,string,Face,Angry,1-layers/Face/Angry.png
+40,Face,Animatronic,1,,,1,string,Face,Animatronic,1-layers/Face/Animatronic.png
+40,Face,Big Swag Sunglasses,1,,,1,string,Face,Big Swag Sunglasses,1-layers/Face/Big Swag Sunglasses.png
+40,Face,Blindfold,1,,,1,string,Face,Blindfold,1-layers/Face/Blindfold.png
+40,Face,Bubblegum Glow,1,,,1,string,Face,Bubblegum Glow,1-layers/Face/Bubblegum Glow.png
+40,Face,Cartoon Angry,1,,,1,string,Face,Cartoon Angry,1-layers/Face/Cartoon Angry.png
+40,Face,Confused,1,,,1,string,Face,Confused,1-layers/Face/Confused.png
+40,Face,Crying,1,,,1,string,Face,Crying,1-layers/Face/Crying.png
+40,Face,Cyborg Eyes,1,,,1,string,Face,Cyborg Eyes,1-layers/Face/Cyborg Eyes.png
+40,Face,Dead,1,,,1,string,Face,Dead,1-layers/Face/Dead.png
+40,Face,Disappointed,1,,,1,string,Face,Disappointed,1-layers/Face/Disappointed.png
+40,Face,Drool,1,,,1,string,Face,Drool,1-layers/Face/Drool.png
+40,Face,Eyelashes Glad,1,,,1,string,Face,Eyelashes Glad,1-layers/Face/Eyelashes Glad.png
+40,Face,Eyelashes Sad,1,,,1,string,Face,Eyelashes Sad,1-layers/Face/Eyelashes Sad.png
+40,Face,Falling Tears,1,,,1,string,Face,Falling Tears,1-layers/Face/Falling Tears.png
+40,Face,Fancy Monocle,1,,,1,string,Face,Fancy Monocle,1-layers/Face/Fancy Monocle.png
+40,Face,Ferocious,1,,,1,string,Face,Ferocious,1-layers/Face/Ferocious.png
+40,Face,Ff Sunglasses,1,,,1,string,Face,Ff Sunglasses,1-layers/Face/FF Sunglasses.png
+40,Face,Fierce,1,,,1,string,Face,Fierce,1-layers/Face/Fierce.png
+40,Face,Ghost,1,,,1,string,Face,Ghost,1-layers/Face/Ghost.png
+40,Face,Glad,1,,,1,string,Face,Glad,1-layers/Face/Glad.png
+40,Face,Goldfish,1,,,1,string,Face,Goldfish,1-layers/Face/Goldfish.png
+40,Face,Green Alien,1,,,1,string,Face,Green Alien,1-layers/Face/Green Alien.png
+40,Face,Green Rainbow Glasses,1,,,1,string,Face,Green Rainbow Glasses,1-layers/Face/Green Rainbow Glasses.png
+40,Face,Heart Eyes,1,,,1,string,Face,Heart Eyes,1-layers/Face/Heart Eyes.png
+40,Face,Heart Rate,1,,,1,string,Face,Heart Rate,1-layers/Face/Heart Rate.png
+40,Face,Killer,1,,,1,string,Face,Killer,1-layers/Face/Killer.png
+40,Face,Money With Feline Grill,1,,,1,string,Face,Money With Feline Grill,1-layers/Face/Money with Feline Grill.png
+40,Face,Nervous,1,,,1,string,Face,Nervous,1-layers/Face/Nervous.png
+40,Face,Ninja,1,,,1,string,Face,Ninja,1-layers/Face/Ninja.png
+40,Face,Popped Eye,1,,,1,string,Face,Popped Eye,1-layers/Face/Popped Eye.png
+40,Face,Red Swirly Glasses,1,,,1,string,Face,Red Swirly Glasses,1-layers/Face/Red Swirly Glasses.png
+40,Face,Scuba Goggles,1,,,1,string,Face,Scuba Goggles,1-layers/Face/Scuba Goggles.png
+40,Face,Shocked,1,,,1,string,Face,Shocked,1-layers/Face/Shocked.png
+40,Face,Ski Goggles,1,,,1,string,Face,Ski Goggles,1-layers/Face/Ski Goggles.png
+40,Face,Smiley,1,,,1,string,Face,Smiley,1-layers/Face/Smiley.png
+40,Face,Smokin A J,1,,,1,string,Face,Smokin A J,1-layers/Face/Smokin a J.png
+40,Face,Tattered,1,,,1,string,Face,Tattered,1-layers/Face/Tattered.png
+40,Face,Teary,1,,,1,string,Face,Teary,1-layers/Face/Teary.png
+40,Face,Tongue Out,1,,,1,string,Face,Tongue Out,1-layers/Face/Tongue Out.png
+40,Face,Tripped,1,,,1,string,Face,Tripped,1-layers/Face/Tripped.png
+40,Face,Violent,1,,,1,string,Face,Violent,1-layers/Face/Violent.png
+40,Face,Viper Glasses,1,,,1,string,Face,Viper Glasses,1-layers/Face/Viper Glasses.png
+40,Face,Vr Headset,1,,,1,string,Face,Vr Headset,1-layers/Face/VR Headset.png
+40,Face,Whine,1,,,1,string,Face,Whine,1-layers/Face/Whine.png
+40,Face,White Circle Glasses,1,,,1,string,Face,White Circle Glasses,1-layers/Face/White Circle Glasses.png
+40,Face,Wink,1,,,1,string,Face,Wink,1-layers/Face/Wink.png
+40,Face,Woozy,1,,,1,string,Face,Woozy,1-layers/Face/Woozy.png
+40,Face,,1,,,0,,,,
+50,Head,Black Hole,1,,,1,string,Head,Black Hole,1-layers/Head/Black Hole.png
+50,Head,Blue Ff Bucket Hat,1,,,1,string,Head,Blue Ff Bucket Hat,1-layers/Head/Blue FF Bucket Hat.png
+50,Head,Brain,1,,,1,string,Head,Brain,1-layers/Head/Brain.png
+50,Head,Bunny Ears,1,,,1,string,Head,Bunny Ears,1-layers/Head/Bunny Ears.png
+50,Head,Cast Iron Pan,1,,,1,string,Head,Cast Iron Pan,1-layers/Head/Cast Iron Pan.png
+50,Head,Cat Earrings,1,,,1,string,Head,Cat Earrings,1-layers/Head/Cat Earrings.png
+50,Head,Cat Mask,1,,,1,string,Head,Cat Mask,1-layers/Head/Cat Mask.png
+50,Head,Chef Hat,1,,,1,string,Head,Chef Hat,1-layers/Head/Chef Hat.png
+50,Head,Cleaver,1,,,1,string,Head,Cleaver,1-layers/Head/Cleaver.png
+50,Head,Cowboy Hat,1,,,1,string,Head,Cowboy Hat,1-layers/Head/Cowboy Hat.png
+50,Head,Devil Horns,1,,,1,string,Head,Devil Horns,1-layers/Head/Devil Horns.png
+50,Head,Earbuds,1,,,1,string,Head,Earbuds,1-layers/Head/Earbuds.png
+50,Head,Earth,1,,,1,string,Head,Earth,1-layers/Head/Earth.png
+50,Head,Ff Backwards Cap,1,,,1,string,Head,Ff Backwards Cap,1-layers/Head/FF Backwards Cap.png
+50,Head,Ff Flag,1,,,1,string,Head,Ff Flag,1-layers/Head/FF Flag.png
+50,Head,Flame Horns,1,,,1,string,Head,Flame Horns,1-layers/Head/Flame Horns.png
+50,Head,Flower,1,,,1,string,Head,Flower,1-layers/Head/Flower.png
+50,Head,Flower Wreath,1,,,1,string,Head,Flower Wreath,1-layers/Head/Flower Wreath.png
+50,Head,Goat Horns,1,,,1,string,Head,Goat Horns,1-layers/Head/Goat Horns.png
+50,Head,Gold Earrings,1,,,1,string,Head,Gold Earrings,1-layers/Head/Gold Earrings.png
+50,Head,Green F Hat,1,,,1,string,Head,Green F Hat,1-layers/Head/Green F Hat.png
+50,Head,Halo,1,,,1,string,Head,Halo,1-layers/Head/Halo.png
+50,Head,Hazard Waste,1,,,1,string,Head,Hazard Waste,1-layers/Head/Hazard Waste.png
+50,Head,Horns,1,,,1,string,Head,Horns,1-layers/Head/Horns.png
+50,Head,House,1,,,1,string,Head,House,1-layers/Head/House.png
+50,Head,Ice Cube,1,,,1,string,Head,Ice Cube,1-layers/Head/Ice Cube.png
+50,Head,King Snake,1,,,1,string,Head,King Snake,1-layers/Head/King Snake.png
+50,Head,Kitten,1,,,1,string,Head,Kitten,1-layers/Head/Kitten.png
+50,Head,Lighting Bolt,1,,,1,string,Head,Lighting Bolt,1-layers/Head/Lighting Bolt.png
+50,Head,Litter,1,,,1,string,Head,Litter,1-layers/Head/Litter.png
+50,Head,Meow Cola Hat,1,,,1,string,Head,Meow Cola Hat,1-layers/Head/Meow Cola Hat.png
+50,Head,Mushroom Cloud,1,,,1,string,Head,Mushroom Cloud,1-layers/Head/Mushroom Cloud.png
+50,Head,Narwhal Horn,1,,,1,string,Head,Narwhal Horn,1-layers/Head/Narwhal Horn.png
+50,Head,Ninja Headband,1,,,1,string,Head,Ninja Headband,1-layers/Head/Ninja Headband.png
+50,Head,None,1,,,1,string,Head,None,1-layers/Head/None.png
+50,Head,Party Hat,1,,,1,string,Head,Party Hat,1-layers/Head/Party Hat.png
+50,Head,Pencil Behind Ear,1,,,1,string,Head,Pencil Behind Ear,1-layers/Head/Pencil Behind Ear.png
+50,Head,Pink Cowboy Hat,1,,,1,string,Head,Pink Cowboy Hat,1-layers/Head/Pink Cowboy Hat.png
+50,Head,Pink Smiley Bucket Hat,1,,,1,string,Head,Pink Smiley Bucket Hat,1-layers/Head/Pink Smiley Bucket Hat.png
+50,Head,Sand Bucket,1,,,1,string,Head,Sand Bucket,1-layers/Head/Sand Bucket.png
+50,Head,Slug,1,,,1,string,Head,Slug,1-layers/Head/Slug.png
+50,Head,Spirit,1,,,1,string,Head,Spirit,1-layers/Head/Spirit.png
+50,Head,Star,1,,,1,string,Head,Star,1-layers/Head/Star.png
+50,Head,Third Eye,1,,,1,string,Head,Third Eye,1-layers/Head/Third Eye.png
+50,Head,Turtle Shell,1,,,1,string,Head,Turtle Shell,1-layers/Head/Turtle Shell.png
+50,Head,Ufo,1,,,1,string,Head,Ufo,1-layers/Head/UFO.png
+50,Head,Yarn Ball,1,,,1,string,Head,Yarn Ball,1-layers/Head/Yarn Ball.png
+50,Head,Yellow Bow,1,,,1,string,Head,Yellow Bow,1-layers/Head/Yellow Bow.png
+50,Head,,1,,,0,,,,
+60,Hand,Bag Of Catnip,1,,,1,string,Hand,Bag Of Catnip,1-layers/Hand/Bag of Catnip.png
+60,Hand,Baseball Bat,1,,,1,string,Hand,Baseball Bat,1-layers/Hand/Baseball Bat.png
+60,Hand,Bong,1,,,1,string,Hand,Bong,1-layers/Hand/Bong.png
+60,Hand,Bow,1,,,1,string,Hand,Bow,1-layers/Hand/Bow.png
+60,Hand,Carrot,1,,,1,string,Hand,Carrot,1-layers/Hand/Carrot.png
+60,Hand,Dumbbell,1,,,1,string,Hand,Dumbbell,1-layers/Hand/Dumbbell.png
+60,Hand,Egg In A Pan,1,,,1,string,Hand,Egg In A Pan,1-layers/Hand/Egg in a Pan.png
+60,Hand,Electric Guitar,1,,,1,string,Hand,Electric Guitar,1-layers/Hand/Electric Guitar.png
+60,Hand,Flashlight,1,,,1,string,Hand,Flashlight,1-layers/Hand/Flashlight.png
+60,Hand,Flower Bouquet,1,,,1,string,Hand,Flower Bouquet,1-layers/Hand/Flower Bouquet.png
+60,Hand,Golden Gun,1,,,1,string,Hand,Golden Gun,1-layers/Hand/Golden Gun.png
+60,Hand,Green Antidote,1,,,1,string,Hand,Green Antidote,1-layers/Hand/Green Antidote.png
+60,Hand,Green Potion,1,,,1,string,Hand,Green Potion,1-layers/Hand/Green Potion.png
+60,Hand,Ham On A Bone,1,,,1,string,Hand,Ham On A Bone,1-layers/Hand/Ham on a Bone.png
+60,Hand,King Snake,1,,,1,string,Hand,King Snake,1-layers/Hand/King Snake.png
+60,Hand,Knife,1,,,1,string,Hand,Knife,1-layers/Hand/Knife.png
+60,Hand,Kunai,1,,,1,string,Hand,Kunai,1-layers/Hand/Kunai.png
+60,Hand,Lipstick,1,,,1,string,Hand,Lipstick,1-layers/Hand/Lipstick.png
+60,Hand,Mouse,1,,,1,string,Hand,Mouse,1-layers/Hand/Mouse.png
+60,Hand,None,1,,,1,string,Hand,None,1-layers/Hand/None.png
+60,Hand,Nunchucks,1,,,1,string,Hand,Nunchucks,1-layers/Hand/Nunchucks.png
+60,Hand,Paintbrush,1,,,1,string,Hand,Paintbrush,1-layers/Hand/Paintbrush.png
+60,Hand,Pink Balloon,1,,,1,string,Hand,Pink Balloon,1-layers/Hand/Pink Balloon.png
+60,Hand,Prison Shank,1,,,1,string,Hand,Prison Shank,1-layers/Hand/Prison Shank.png
+60,Hand,Red Energy Sword,1,,,1,string,Hand,Red Energy Sword,1-layers/Hand/Red Energy Sword.png
+60,Hand,Scythe,1,,,1,string,Hand,Scythe,1-layers/Hand/Scythe.png
+60,Hand,Showerhead,1,,,1,string,Hand,Showerhead,1-layers/Hand/Showerhead.png
+60,Hand,Soul Taker Knife,1,,,1,string,Hand,Soul Taker Knife,1-layers/Hand/Soul Taker Knife.png
+60,Hand,Spear,1,,,1,string,Hand,Spear,1-layers/Hand/Spear.png
+60,Hand,Tripod Vlog Camera,1,,,1,string,Hand,Tripod Vlog Camera,1-layers/Hand/Tripod Vlog Camera.png
+60,Hand,Vape,1,,,1,string,Hand,Vape,1-layers/Hand/Vape.png
+60,Hand,,1,,,0,,,,
+100,1 Of 1S,Astral Cat,0,,,1,string,1 Of 1S,Astral Cat,1-layers/1 of 1s/Astral Cat.png
+100,1 Of 1S,Cher Cat,0,,,1,string,1 Of 1S,Cher Cat,1-layers/1 of 1s/Cher Cat.png
+100,1 Of 1S,First Concept Feline,0,,,1,string,1 Of 1S,First Concept Feline,1-layers/1 of 1s/First Concept Feline.png
+100,1 Of 1S,Golden Cat,0,,,1,string,1 Of 1S,Golden Cat,1-layers/1 of 1s/Golden Cat.png
+100,1 Of 1S,Hacker Cat,0,,,1,string,1 Of 1S,Hacker Cat,1-layers/1 of 1s/Hacker Cat.png
+100,1 Of 1S,Lion,0,,,1,string,1 Of 1S,Lion,1-layers/1 of 1s/Lion.png
+100,1 Of 1S,Magma Cat,0,,,1,string,1 Of 1S,Magma Cat,1-layers/1 of 1s/Magma Cat.png
+100,1 Of 1S,Neon Cat,0,,,1,string,1 Of 1S,Neon Cat,1-layers/1 of 1s/Neon Cat.png
+100,1 Of 1S,Og Cat,0,,,1,string,1 Of 1S,Og Cat,1-layers/1 of 1s/OG Cat.png
+100,1 Of 1S,Plague Doctor Cat,0,,,1,string,1 Of 1S,Plague Doctor Cat,1-layers/1 of 1s/Plague Doctor Cat.png
+100,1 Of 1S,Robot Cat,0,,,1,string,1 Of 1S,Robot Cat,1-layers/1 of 1s/Robot Cat.png
+100,1 Of 1S,Samurai Cat,0,,,1,string,1 Of 1S,Samurai Cat,1-layers/1 of 1s/Samurai Cat.png
+100,1 Of 1S,X Ray Cat,0,,,1,string,1 Of 1S,X Ray Cat,1-layers/1 of 1s/X-Ray Cat.png
+200,Overlay Top Most Layer ,Default,1,,,1,string,Overlay Top Most Layer ,Default,1-layers/Overlay (top most layer).png
+200,Overlay Top Most Layer ,,100,,,0,,,,
